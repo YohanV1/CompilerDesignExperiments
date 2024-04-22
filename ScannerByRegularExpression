@@ -88,3 +88,4 @@ TO RUN:
 win_flex test.l
 win_bison -d test.y
 gcc lex.yy.c test.tab.c
+a
