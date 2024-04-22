@@ -20,3 +20,7 @@ int main()
 }
 
 int yywrap() { return 1; }
+
+flex sample.flex
+gcc lex.yy.c
+a.exe
